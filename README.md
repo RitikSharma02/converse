@@ -1,4 +1,4 @@
-# converse 💬
+# Converse 💬
 Converse is a real-time conversation app developed using Flutter and Firebase. It allows users to chat in real-time, and connect with friends and family seamlessly.
 
 Features: 
