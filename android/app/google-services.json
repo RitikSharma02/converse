@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466678515715",
+    "project_id": "section15-1f133",
+    "storage_bucket": "section15-1f133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466678515715:android:6fa622ca5edc7f47892636",
+        "android_client_info": {
+          "package_name": "com.ritikSharma.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6nar45gt2d_xU9hgAKI5DK7P-R9NiRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
